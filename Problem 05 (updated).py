@@ -1,7 +1,7 @@
 # Get input from the user
-a = float(input("Enter the first number (a): "))
-b = float(input("Enter the second number (b): "))
-c = float(input("Enter the third number (c): "))
+a = 5
+b = 7
+c = 3
 
 # Use nested if conditions to find the greatest number
 if a > b:
