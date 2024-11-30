@@ -1,5 +1,5 @@
 # Get the total marks from the user
-total_marks <- as.numeric(readline("Enter the total marks: "))
+total_marks = 52
 
 # Use nested if conditions to assign the grade
 if (total_marks < 40) {
