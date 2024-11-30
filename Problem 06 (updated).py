@@ -1,5 +1,5 @@
 # Get the total marks from the user
-n = float(input("Enter the total marks: "))
+n = 52
 
 # Use nested if conditions to assign the g
 if n < 40:
