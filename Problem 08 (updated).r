@@ -13,3 +13,12 @@ result2 <- calculate_product_of_reciprocals(n)
 
 cat("Result 1:", result1, "\n")
 cat("Result 2:", result2, "\n")
+
+
+
+################# Or #####################
+x = 1:99
+sum(x^3)
+
+y = seq(1,99,2)
+sum(1/(y^3))
